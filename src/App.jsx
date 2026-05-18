@@ -187,7 +187,7 @@ function PathwaysModule(){
      quals:"SVQ Hospitality Team Member Level 5 (Bar pathway), REHIS Elementary Food Hygiene, Challenge 25 awareness, BIIAB Award in Responsible Alcohol Service",
      entry:"Must be 18+ to serve alcohol in licensed premises in Scotland.",
      day:["9:00 — Pre-opening: restock bar, prepare garnishes, check spirits levels, polish glassware.","10:00 — Soft opening: coffees, light drinks. Learn product range from senior bartender.","12:00 — Lunch service: beer, wine, cocktails. Work quickly and accurately.","15:00 — Quiet period: deep clean sections, rotate stock, practise cocktail techniques.","18:00 — Evening service: busiest period. Must remember orders, manage multiple guests, maintain quality.","23:00 — Close down: till reconciliation, clean down, prep for next day."]},
-    {id:"supervision",icon:"👔",name:"Hospitality Supervision and Leadership",level:"SCQF Level 7",
+    {id:"supervision",icon:"👔",name:"Supervision and Leadership",level:"SCQF Level 7",
      desc:"The supervision pathway is for those who have completed a Level 5 or 6 MA and are ready to move into a leadership role. It develops the skills needed to manage a team, supervise operations, handle complaints and improve service quality — the gateway to management.",
      roles:"Restaurant Supervisor, Bar Manager, Duty Manager, Head Housekeeper, Kitchen Team Leader",
      quals:"SVQ Hospitality Supervision and Leadership Level 7, Leadership and Management qualification",
